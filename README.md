@@ -1,6 +1,6 @@
 # **React Admin Dashboard**
 
-A responsive and feature-rich Admin Dashboard named ADMINIS built using React.js, Material UI, Nivo Charts, FullCalendar, Formik, Yup, and Data Grid. This project is designed for scalability and provides a clean, modern UI experience.
+A feature-rich Admin Dashboard named ADMINIS built using React.js, Material UI, Nivo Charts, FullCalendar, Formik, Yup, and Data Grid. This project is designed for scalability and provides a clean, modern UI experience.
 
 > 🔗 **Live Site**: [https://prtk-admin.netlify.app/](https://prtk-admin.netlify.app/)
 
