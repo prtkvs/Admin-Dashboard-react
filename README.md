@@ -14,7 +14,8 @@ A responsive and feature-rich Admin Dashboard named ADMINIS built using React.js
 ### **📍 Contact Information**
 <img src="/screenshots/contact.png" width="60%" />
 ---
-## Features
+
+## Features 
 
 - Light and Dark Mode Toggle 🌗  
 - Fully Responsive Layout 📱  
